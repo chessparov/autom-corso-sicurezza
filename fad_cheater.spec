@@ -19,7 +19,7 @@ exe = EXE(
     a.scripts,
     a.binaries,
     a.datas,
-    name='NAS Backup',
+    name='FAD Cheater',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
